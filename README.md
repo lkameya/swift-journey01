@@ -6,11 +6,11 @@ This is the first project of my Swift Journey - Step by Step
 I learned how to:
 
 - Create a single view application
-- Use the project navigation and different windows
-- Project structure (MVC)
-- Types of files
-- Adding an UILabel 
-- Adding a ImageView
+- Use the project navigation and different panes
+- Structure the project (MVC)
+- Work with different types of files
+- Add an UILabel 
+- Add a ImageView
 - Position elements on the screen
-- Setting an image with a rounded corner in the code
-- Cmd + equal (=) to fit a label
+- Set an image with a rounded corner in the code
+- Use shortcuts like Cmd + equal (=) to fit a label

@@ -10,7 +10,7 @@ I learned how to:
 - Structure the project (MVC)
 - Work with different types of files
 - Add an UILabel 
-- Add a ImageView
+- Add an ImageView
 - Position elements on the screen
 - Set an image with a rounded corner in the code
 - Use shortcuts like Cmd + equal (=) to fit a label

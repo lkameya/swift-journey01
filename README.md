@@ -1,7 +1,7 @@
 # swift-journey01 - Swift Intro App
 This is the first project of my Swift Journey - Step by Step
 
-This is a simple View with a label and image.
+A simple View with a label and image.
 
 <img src="https://github.com/lkameya/swift-journey01/blob/master/simulator.png" width="375" height="812" title="Github Logo" align="center">
 
